@@ -24,7 +24,7 @@ As a response, you should get the scanned image which get stored in your media f
 
 <p align="center"> 
   <kbd>
-    <a href="(https://github.com/okoliechykwuka/Django-document-Scanner/" target="_blank"><img src="postman" height = "600" >
+    <a href="(https://github.com/okoliechykwuka/Django-document-Scanner/" target="_blank"><img src="postman.jpg" height = "600" >
   </a>
   </kbd>
 </p>
