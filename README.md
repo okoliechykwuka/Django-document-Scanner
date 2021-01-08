@@ -7,7 +7,7 @@ I wanted to use this a service to use to build applications with. The idea is to
 #### Output image
 <p align="center"> 
   <kbd>
-    <a href="(https://github.com/okoliechykwuka/Django-document-Scanner/" target="_blank"><img src="scan_image.jpg" height = "100" >
+    <a href="(https://github.com/okoliechykwuka/Django-document-Scanner/" target="_blank"><img src="scan_image.jpg" height = "1000" >
   </a>
   </kbd>
 </p>
